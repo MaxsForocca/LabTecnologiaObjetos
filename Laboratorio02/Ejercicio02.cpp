@@ -3,7 +3,7 @@ Laboratorio 02 - Ejercicio 02
 Implementar con punteros una lista doblemente enlazada, utilizar clases o struct
 */
 #include <iostream>
-
+#include <windows.h>
 using namespace std;
 
 template <typename T>
@@ -110,7 +110,7 @@ public:
 };
 
 int main() {
-
+    SetConsoleOutputCP(CP_UTF8);
     ListaDoble<int> listaEnteros;
     listaEnteros.insertarAlFinal(10);
     listaEnteros.insertarAlFinal(20);
