@@ -1,2 +1,52 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+
+# Qt Creator specific files
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+
+# Build directories
+build-*/
+*/build-*
+*_build/
+*.moc
+*.o.d
+*.tmp
+
+# Qt binaries
 *.exe
-.exe
+*.app
+*.dll
+*.so
+*.dylib
+
+# User-specific files
+*.swp
+*.swo
+*.swn
+
+# IDE specific files
+.vscode/
+.idea/
+*.iml
+*.userprefs
+
+# Backup files
+*~
+*.bak
+*.orig
+*.old
+
+# Logs
+*.log
+
+# Other files
+*.autosave
+*.stackdump
+*.pid
+*.pid.lock
