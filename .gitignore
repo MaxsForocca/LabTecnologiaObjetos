@@ -50,3 +50,6 @@ build-*/
 *.stackdump
 *.pid
 *.pid.lock
+
+# Version Qt
+Desktop_Qt_*/
