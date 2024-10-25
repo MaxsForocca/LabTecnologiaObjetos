@@ -1,0 +1,1771 @@
+[
+  {
+    "name": {
+      "common": "South Georgia",
+      "official": "South Georgia and the South Sandwich Islands",
+      "nativeName": {
+        "eng": {
+          "official": "South Georgia and the South Sandwich Islands",
+          "common": "South Georgia"
+        }
+      }
+    },
+    "capital": [
+      "King Edward Point"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": {
+      "common": "Grenada",
+      "official": "Grenada",
+      "nativeName": {
+        "eng": {
+          "official": "Grenada",
+          "common": "Grenada"
+        }
+      }
+    },
+    "capital": [
+      "St. George's"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": {
+      "common": "Switzerland",
+      "official": "Swiss Confederation",
+      "nativeName": {
+        "fra": {
+          "official": "Confédération suisse",
+          "common": "Suisse"
+        },
+        "gsw": {
+          "official": "Schweizerische Eidgenossenschaft",
+          "common": "Schweiz"
+        },
+        "ita": {
+          "official": "Confederazione Svizzera",
+          "common": "Svizzera"
+        },
+        "roh": {
+          "official": "Confederaziun svizra",
+          "common": "Svizra"
+        }
+      }
+    },
+    "capital": [
+      "Bern"
+    ],
+    "languages": {
+      "fra": "French",
+      "gsw": "Swiss German",
+      "ita": "Italian",
+      "roh": "Romansh"
+    }
+  },
+  {
+    "name": {
+      "common": "Sierra Leone",
+      "official": "Republic of Sierra Leone",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Sierra Leone",
+          "common": "Sierra Leone"
+        }
+      }
+    },
+    "capital": [
+      "Freetown"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": {
+      "common": "Hungary",
+      "official": "Hungary",
+      "nativeName": {
+        "hun": {
+          "official": "Magyarország",
+          "common": "Magyarország"
+        }
+      }
+    },
+    "capital": [
+      "Budapest"
+    ],
+    "languages": {
+      "hun": "Hungarian"
+    }
+  },
+  {
+    "name": {
+      "common": "Taiwan",
+      "official": "Republic of China (Taiwan)",
+      "nativeName": {
+        "zho": {
+          "official": "中華民國",
+          "common": "台灣"
+        }
+      }
+    },
+    "capital": [
+      "Taipei"
+    ],
+    "languages": {
+      "zho": "Chinese"
+    }
+  },
+  {
+    "name": {
+      "common": "Barbados",
+      "official": "Barbados",
+      "nativeName": {
+        "eng": {
+          "official": "Barbados",
+          "common": "Barbados"
+        }
+      }
+    },
+    "capital": [
+      "Bridgetown"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": {
+      "common": "Italy",
+      "official": "Italian Republic",
+      "nativeName": {
+        "ita": {
+          "official": "Repubblica italiana",
+          "common": "Italia"
+        }
+      }
+    },
+    "capital": [
+      "Rome"
+    ],
+    "languages": {
+      "ita": "Italian"
+    }
+  },
+  {
+    "name": {
+      "common": "Indonesia",
+      "official": "Republic of Indonesia",
+      "nativeName": {
+        "ind": {
+          "official": "Republik Indonesia",
+          "common": "Indonesia"
+        }
+      }
+    },
+    "capital": [
+      "Jakarta"
+    ],
+    "languages": {
+      "ind": "Indonesian"
+    }
+  },
+  {
+    "name": {
+      "common": "Cape Verde",
+      "official": "Republic of Cabo Verde",
+      "nativeName": {
+        "por": {
+          "official": "República de Cabo Verde",
+          "common": "Cabo Verde"
+        }
+      }
+    },
+    "capital": [
+      "Praia"
+    ],
+    "languages": {
+      "por": "Portuguese"
+    }
+  },
+  {
+    "name": {
+      "common": "Laos",
+      "official": "Lao People's Democratic Republic",
+      "nativeName": {
+        "lao": {
+          "official": "ສາທາລະນະ ຊາທິປະໄຕ ຄົນລາວ ຂອງ",
+          "common": "ສປປລາວ"
+        }
+      }
+    },
+    "capital": [
+      "Vientiane"
+    ],
+    "languages": {
+      "lao": "Lao"
+    }
+  },
+  {
+    "name": {
+      "common": "Caribbean Netherlands",
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "nativeName": {
+        "nld": {
+          "official": "Bonaire, Sint Eustatius en Saba",
+          "common": "Caribisch Nederland"
+        },
+        "pap": {
+          "official": "Boneiru, Sint Eustatius y Saba",
+          "common": "Boneiru, Sint Eustatius y Saba"
+        }
+      }
+    },
+    "capital": [
+      "Kralendijk"
+    ],
+    "languages": {
+      "eng": "English",
+      "nld": "Dutch",
+      "pap": "Papiamento"
+    }
+  },
+  {
+    "name": {
+      "common": "Uganda",
+      "official": "Republic of Uganda",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Uganda",
+          "common": "Uganda"
+        },
+        "swa": {
+          "official": "Republic of Uganda",
+          "common": "Uganda"
+        }
+      }
+    },
+    "capital": [
+      "Kampala"
+    ],
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    }
+  },
+  {
+    "name": {
+      "common": "Andorra",
+      "official": "Principality of Andorra",
+      "nativeName": {
+        "cat": {
+          "official": "Principat d'Andorra",
+          "common": "Andorra"
+        }
+      }
+    },
+    "capital": [
+      "Andorra la Vella"
+    ],
+    "languages": {
+      "cat": "Catalan"
+    }
+  },
+  {
+    "name": {
+      "common": "Burundi",
+      "official": "Republic of Burundi",
+      "nativeName": {
+        "fra": {
+          "official": "République du Burundi",
+          "common": "Burundi"
+        },
+        "run": {
+          "official": "Republika y'Uburundi ",
+          "common": "Uburundi"
+        }
+      }
+    },
+    "capital": [
+      "Gitega"
+    ],
+    "languages": {
+      "fra": "French",
+      "run": "Kirundi"
+    }
+  },
+  {
+    "name": {
+      "common": "South Africa",
+      "official": "Republic of South Africa",
+      "nativeName": {
+        "afr": {
+          "official": "Republiek van Suid-Afrika",
+          "common": "South Africa"
+        },
+        "eng": {
+          "official": "Republic of South Africa",
+          "common": "South Africa"
+        },
+        "nbl": {
+          "official": "IRiphabliki yeSewula Afrika",
+          "common": "Sewula Afrika"
+        },
+        "nso": {
+          "official": "Rephaboliki ya Afrika-Borwa ",
+          "common": "Afrika-Borwa"
+        },
+        "sot": {
+          "official": "Rephaboliki ya Afrika Borwa",
+          "common": "Afrika Borwa"
+        },
+        "ssw": {
+          "official": "IRiphabhulikhi yeNingizimu Afrika",
+          "common": "Ningizimu Afrika"
+        },
+        "tsn": {
+          "official": "Rephaboliki ya Aforika Borwa",
+          "common": "Aforika Borwa"
+        },
+        "tso": {
+          "official": "Riphabliki ra Afrika Dzonga",
+          "common": "Afrika Dzonga"
+        },
+        "ven": {
+          "official": "Riphabuḽiki ya Afurika Tshipembe",
+          "common": "Afurika Tshipembe"
+        },
+        "xho": {
+          "official": "IRiphabliki yaseMzantsi Afrika",
+          "common": "Mzantsi Afrika"
+        },
+        "zul": {
+          "official": "IRiphabliki yaseNingizimu Afrika",
+          "common": "Ningizimu Afrika"
+        }
+      }
+    },
+    "capital": [
+      "Pretoria",
+      "Bloemfontein",
+      "Cape Town"
+    ],
+    "languages": {
+      "afr": "Afrikaans",
+      "eng": "English",
+      "nbl": "Southern Ndebele",
+      "nso": "Northern Sotho",
+      "sot": "Southern Sotho",
+      "ssw": "Swazi",
+      "tsn": "Tswana",
+      "tso": "Tsonga",
+      "ven": "Venda",
+      "xho": "Xhosa",
+      "zul": "Zulu"
+    }
+  },
+  {
+    "name": {
+      "common": "France",
+      "official": "French Republic",
+      "nativeName": {
+        "fra": {
+          "official": "République française",
+          "common": "France"
+        }
+      }
+    },
+    "capital": [
+      "Paris"
+    ],
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": {
+      "common": "Libya",
+      "official": "State of Libya",
+      "nativeName": {
+        "ara": {
+          "official": "الدولة ليبيا",
+          "common": "‏ليبيا"
+        }
+      }
+    },
+    "capital": [
+      "Tripoli"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "name": {
+      "common": "Mexico",
+      "official": "United Mexican States",
+      "nativeName": {
+        "spa": {
+          "official": "Estados Unidos Mexicanos",
+          "common": "México"
+        }
+      }
+    },
+    "capital": [
+      "Mexico City"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": {
+      "common": "Gabon",
+      "official": "Gabonese Republic",
+      "nativeName": {
+        "fra": {
+          "official": "République gabonaise",
+          "common": "Gabon"
+        }
+      }
+    },
+    "capital": [
+      "Libreville"
+    ],
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": {
+      "common": "China",
+      "official": "People's Republic of China",
+      "nativeName": {
+        "zho": {
+          "official": "中华人民共和国",
+          "common": "中国"
+        }
+      }
+    },
+    "capital": [
+      "Beijing"
+    ],
+    "languages": {
+      "zho": "Chinese"
+    }
+  },
+  {
+    "name": {
+      "common": "Yemen",
+      "official": "Republic of Yemen",
+      "nativeName": {
+        "ara": {
+          "official": "الجمهورية اليمنية",
+          "common": "اليَمَن"
+        }
+      }
+    },
+    "capital": [
+      "Sana'a"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "name": {
+      "common": "Solomon Islands",
+      "official": "Solomon Islands",
+      "nativeName": {
+        "eng": {
+          "official": "Solomon Islands",
+          "common": "Solomon Islands"
+        }
+      }
+    },
+    "capital": [
+      "Honiara"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": {
+      "common": "Faroe Islands",
+      "official": "Faroe Islands",
+      "nativeName": {
+        "dan": {
+          "official": "Færøerne",
+          "common": "Færøerne"
+        },
+        "fao": {
+          "official": "Føroyar",
+          "common": "Føroyar"
+        }
+      }
+    },
+    "capital": [
+      "Tórshavn"
+    ],
+    "languages": {
+      "dan": "Danish",
+      "fao": "Faroese"
+    }
+  },
+  {
+    "name": {
+      "common": "Uzbekistan",
+      "official": "Republic of Uzbekistan",
+      "nativeName": {
+        "rus": {
+          "official": "Республика Узбекистан",
+          "common": "Узбекистан"
+        },
+        "uzb": {
+          "official": "O'zbekiston Respublikasi",
+          "common": "O‘zbekiston"
+        }
+      }
+    },
+    "capital": [
+      "Tashkent"
+    ],
+    "languages": {
+      "rus": "Russian",
+      "uzb": "Uzbek"
+    }
+  },
+  {
+    "name": {
+      "common": "Egypt",
+      "official": "Arab Republic of Egypt",
+      "nativeName": {
+        "ara": {
+          "official": "جمهورية مصر العربية",
+          "common": "مصر"
+        }
+      }
+    },
+    "capital": [
+      "Cairo"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "name": {
+      "common": "Senegal",
+      "official": "Republic of Senegal",
+      "nativeName": {
+        "fra": {
+          "official": "République du Sénégal",
+          "common": "Sénégal"
+        }
+      }
+    },
+    "capital": [
+      "Dakar"
+    ],
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": {
+      "common": "Palestine",
+      "official": "State of Palestine",
+      "nativeName": {
+        "ara": {
+          "official": "دولة فلسطين",
+          "common": "فلسطين"
+        }
+      }
+    },
+    "capital": [
+      "Ramallah",
+      "Jerusalem"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "name": {
+      "common": "Bangladesh",
+      "official": "People's Republic of Bangladesh",
+      "nativeName": {
+        "ben": {
+          "official": "বাংলাদেশ গণপ্রজাতন্ত্রী",
+          "common": "বাংলাদেশ"
+        }
+      }
+    },
+    "capital": [
+      "Dhaka"
+    ],
+    "languages": {
+      "ben": "Bengali"
+    }
+  },
+  {
+    "name": {
+      "common": "Peru",
+      "official": "Republic of Peru",
+      "nativeName": {
+        "aym": {
+          "official": "Piruw Suyu",
+          "common": "Piruw"
+        },
+        "que": {
+          "official": "Piruw Ripuwlika",
+          "common": "Piruw"
+        },
+        "spa": {
+          "official": "República del Perú",
+          "common": "Perú"
+        }
+      }
+    },
+    "capital": [
+      "Lima"
+    ],
+    "languages": {
+      "aym": "Aymara",
+      "que": "Quechua",
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": {
+      "common": "Singapore",
+      "official": "Republic of Singapore",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Singapore",
+          "common": "Singapore"
+        },
+        "zho": {
+          "official": "新加坡共和国",
+          "common": "新加坡"
+        },
+        "msa": {
+          "official": "Republik Singapura",
+          "common": "Singapura"
+        },
+        "tam": {
+          "official": "சிங்கப்பூர் குடியரசு",
+          "common": "சிங்கப்பூர்"
+        }
+      }
+    },
+    "capital": [
+      "Singapore"
+    ],
+    "languages": {
+      "eng": "English",
+      "zho": "Chinese",
+      "msa": "Malay",
+      "tam": "Tamil"
+    }
+  },
+  {
+    "name": {
+      "common": "Turkey",
+      "official": "Republic of Turkey",
+      "nativeName": {
+        "tur": {
+          "official": "Türkiye Cumhuriyeti",
+          "common": "Türkiye"
+        }
+      }
+    },
+    "capital": [
+      "Ankara"
+    ],
+    "languages": {
+      "tur": "Turkish"
+    }
+  },
+  {
+    "name": {
+      "common": "Afghanistan",
+      "official": "Islamic Republic of Afghanistan",
+      "nativeName": {
+        "prs": {
+          "official": "جمهوری اسلامی افغانستان",
+          "common": "افغانستان"
+        },
+        "pus": {
+          "official": "د افغانستان اسلامي جمهوریت",
+          "common": "افغانستان"
+        },
+        "tuk": {
+          "official": "Owganystan Yslam Respublikasy",
+          "common": "Owganystan"
+        }
+      }
+    },
+    "capital": [
+      "Kabul"
+    ],
+    "languages": {
+      "prs": "Dari",
+      "pus": "Pashto",
+      "tuk": "Turkmen"
+    }
+  },
+  {
+    "name": {
+      "common": "Aruba",
+      "official": "Aruba",
+      "nativeName": {
+        "nld": {
+          "official": "Aruba",
+          "common": "Aruba"
+        },
+        "pap": {
+          "official": "Aruba",
+          "common": "Aruba"
+        }
+      }
+    },
+    "capital": [
+      "Oranjestad"
+    ],
+    "languages": {
+      "nld": "Dutch",
+      "pap": "Papiamento"
+    }
+  },
+  {
+    "name": {
+      "common": "United Kingdom",
+      "official": "United Kingdom of Great Britain and Northern Ireland",
+      "nativeName": {
+        "eng": {
+          "official": "United Kingdom of Great Britain and Northern Ireland",
+          "common": "United Kingdom"
+        }
+      }
+    },
+    "capital": [
+      "London"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": {
+      "common": "Zambia",
+      "official": "Republic of Zambia",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Zambia",
+          "common": "Zambia"
+        }
+      }
+    },
+    "capital": [
+      "Lusaka"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": {
+      "common": "Finland",
+      "official": "Republic of Finland",
+      "nativeName": {
+        "fin": {
+          "official": "Suomen tasavalta",
+          "common": "Suomi"
+        },
+        "swe": {
+          "official": "Republiken Finland",
+          "common": "Finland"
+        }
+      }
+    },
+    "capital": [
+      "Helsinki"
+    ],
+    "languages": {
+      "fin": "Finnish",
+      "swe": "Swedish"
+    }
+  },
+  {
+    "name": {
+      "common": "Niger",
+      "official": "Republic of Niger",
+      "nativeName": {
+        "fra": {
+          "official": "République du Niger",
+          "common": "Niger"
+        }
+      }
+    },
+    "capital": [
+      "Niamey"
+    ],
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": {
+      "common": "Tokelau",
+      "official": "Tokelau",
+      "nativeName": {
+        "eng": {
+          "official": "Tokelau",
+          "common": "Tokelau"
+        },
+        "smo": {
+          "official": "Tokelau",
+          "common": "Tokelau"
+        },
+        "tkl": {
+          "official": "Tokelau",
+          "common": "Tokelau"
+        }
+      }
+    },
+    "capital": [
+      "Fakaofo"
+    ],
+    "languages": {
+      "eng": "English",
+      "smo": "Samoan",
+      "tkl": "Tokelauan"
+    }
+  },
+  {
+    "name": {
+      "common": "Guinea-Bissau",
+      "official": "Republic of Guinea-Bissau",
+      "nativeName": {
+        "por": {
+          "official": "República da Guiné-Bissau",
+          "common": "Guiné-Bissau"
+        },
+        "pov": {
+          "official": "República da Guiné-Bissau",
+          "common": "Guiné-Bissau"
+        }
+      }
+    },
+    "capital": [
+      "Bissau"
+    ],
+    "languages": {
+      "por": "Portuguese",
+      "pov": "Upper Guinea Creole"
+    }
+  },
+  {
+    "name": {
+      "common": "Azerbaijan",
+      "official": "Republic of Azerbaijan",
+      "nativeName": {
+        "aze": {
+          "official": "Azərbaycan Respublikası",
+          "common": "Azərbaycan"
+        }
+      }
+    },
+    "capital": [
+      "Baku"
+    ],
+    "languages": {
+      "aze": "Azerbaijani"
+    }
+  },
+  {
+    "name": {
+      "common": "North Korea",
+      "official": "Democratic People's Republic of Korea",
+      "nativeName": {
+        "kor": {
+          "official": "조선민주주의인민공화국",
+          "common": "조선"
+        }
+      }
+    },
+    "capital": [
+      "Pyongyang"
+    ],
+    "languages": {
+      "kor": "Korean"
+    }
+  },
+  {
+    "name": {
+      "common": "Mauritius",
+      "official": "Republic of Mauritius",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Mauritius",
+          "common": "Mauritius"
+        },
+        "fra": {
+          "official": "République de Maurice",
+          "common": "Maurice"
+        },
+        "mfe": {
+          "official": "Republik Moris",
+          "common": "Moris"
+        }
+      }
+    },
+    "capital": [
+      "Port Louis"
+    ],
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "mfe": "Mauritian Creole"
+    }
+  },
+  {
+    "name": {
+      "common": "Montserrat",
+      "official": "Montserrat",
+      "nativeName": {
+        "eng": {
+          "official": "Montserrat",
+          "common": "Montserrat"
+        }
+      }
+    },
+    "capital": [
+      "Plymouth"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": {
+      "common": "Colombia",
+      "official": "Republic of Colombia",
+      "nativeName": {
+        "spa": {
+          "official": "República de Colombia",
+          "common": "Colombia"
+        }
+      }
+    },
+    "capital": [
+      "Bogotá"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": {
+      "common": "Lebanon",
+      "official": "Lebanese Republic",
+      "nativeName": {
+        "ara": {
+          "official": "الجمهورية اللبنانية",
+          "common": "لبنان"
+        },
+        "fra": {
+          "official": "République libanaise",
+          "common": "Liban"
+        }
+      }
+    },
+    "capital": [
+      "Beirut"
+    ],
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    }
+  },
+  {
+    "name": {
+      "common": "Papua New Guinea",
+      "official": "Independent State of Papua New Guinea",
+      "nativeName": {
+        "eng": {
+          "official": "Independent State of Papua New Guinea",
+          "common": "Papua New Guinea"
+        },
+        "hmo": {
+          "official": "Independen Stet bilong Papua Niugini",
+          "common": "Papua Niu Gini"
+        },
+        "tpi": {
+          "official": "Independen Stet bilong Papua Niugini",
+          "common": "Papua Niugini"
+        }
+      }
+    },
+    "capital": [
+      "Port Moresby"
+    ],
+    "languages": {
+      "eng": "English",
+      "hmo": "Hiri Motu",
+      "tpi": "Tok Pisin"
+    }
+  },
+  {
+    "name": {
+      "common": "Dominican Republic",
+      "official": "Dominican Republic",
+      "nativeName": {
+        "spa": {
+          "official": "República Dominicana",
+          "common": "República Dominicana"
+        }
+      }
+    },
+    "capital": [
+      "Santo Domingo"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": {
+      "common": "Qatar",
+      "official": "State of Qatar",
+      "nativeName": {
+        "ara": {
+          "official": "دولة قطر",
+          "common": "قطر"
+        }
+      }
+    },
+    "capital": [
+      "Doha"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "name": {
+      "common": "Madagascar",
+      "official": "Republic of Madagascar",
+      "nativeName": {
+        "fra": {
+          "official": "République de Madagascar",
+          "common": "Madagascar"
+        },
+        "mlg": {
+          "official": "Repoblikan'i Madagasikara",
+          "common": "Madagasikara"
+        }
+      }
+    },
+    "capital": [
+      "Antananarivo"
+    ],
+    "languages": {
+      "fra": "French",
+      "mlg": "Malagasy"
+    }
+  },
+  {
+    "name": {
+      "common": "India",
+      "official": "Republic of India",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of India",
+          "common": "India"
+        },
+        "hin": {
+          "official": "भारत गणराज्य",
+          "common": "भारत"
+        },
+        "tam": {
+          "official": "இந்தியக் குடியரசு",
+          "common": "இந்தியா"
+        }
+      }
+    },
+    "capital": [
+      "New Delhi"
+    ],
+    "languages": {
+      "eng": "English",
+      "hin": "Hindi",
+      "tam": "Tamil"
+    }
+  },
+  {
+    "name": {
+      "common": "Syria",
+      "official": "Syrian Arab Republic",
+      "nativeName": {
+        "ara": {
+          "official": "الجمهورية العربية السورية",
+          "common": "سوريا"
+        }
+      }
+    },
+    "capital": [
+      "Damascus"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "name": {
+      "common": "Montenegro",
+      "official": "Montenegro",
+      "nativeName": {
+        "cnr": {
+          "official": "Црна Гора",
+          "common": "Црна Гора"
+        }
+      }
+    },
+    "capital": [
+      "Podgorica"
+    ],
+    "languages": {
+      "cnr": "Montenegrin"
+    }
+  },
+  {
+    "name": {
+      "common": "Paraguay",
+      "official": "Republic of Paraguay",
+      "nativeName": {
+        "grn": {
+          "official": "Tetã Paraguái",
+          "common": "Paraguái"
+        },
+        "spa": {
+          "official": "República de Paraguay",
+          "common": "Paraguay"
+        }
+      }
+    },
+    "capital": [
+      "Asunción"
+    ],
+    "languages": {
+      "grn": "Guaraní",
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": {
+      "common": "El Salvador",
+      "official": "Republic of El Salvador",
+      "nativeName": {
+        "spa": {
+          "official": "República de El Salvador",
+          "common": "El Salvador"
+        }
+      }
+    },
+    "capital": [
+      "San Salvador"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": {
+      "common": "Ukraine",
+      "official": "Ukraine",
+      "nativeName": {
+        "ukr": {
+          "official": "Україна",
+          "common": "Україна"
+        }
+      }
+    },
+    "capital": [
+      "Kyiv"
+    ],
+    "languages": {
+      "ukr": "Ukrainian"
+    }
+  },
+  {
+    "name": {
+      "common": "United Arab Emirates",
+      "official": "United Arab Emirates",
+      "nativeName": {
+        "ara": {
+          "official": "الإمارات العربية المتحدة",
+          "common": "دولة الإمارات العربية المتحدة"
+        }
+      }
+    },
+    "capital": [
+      "Abu Dhabi"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "name": {
+      "common": "Bulgaria",
+      "official": "Republic of Bulgaria",
+      "nativeName": {
+        "bul": {
+          "official": "Република България",
+          "common": "България"
+        }
+      }
+    },
+    "capital": [
+      "Sofia"
+    ],
+    "languages": {
+      "bul": "Bulgarian"
+    }
+  },
+  {
+    "name": {
+      "common": "Greenland",
+      "official": "Greenland",
+      "nativeName": {
+        "kal": {
+          "official": "Kalaallit Nunaat",
+          "common": "Kalaallit Nunaat"
+        }
+      }
+    },
+    "capital": [
+      "Nuuk"
+    ],
+    "languages": {
+      "kal": "Greenlandic"
+    }
+  },
+  {
+    "name": {
+      "common": "Germany",
+      "official": "Federal Republic of Germany",
+      "nativeName": {
+        "deu": {
+          "official": "Bundesrepublik Deutschland",
+          "common": "Deutschland"
+        }
+      }
+    },
+    "capital": [
+      "Berlin"
+    ],
+    "languages": {
+      "deu": "German"
+    }
+  },
+  {
+    "name": {
+      "common": "Cambodia",
+      "official": "Kingdom of Cambodia",
+      "nativeName": {
+        "khm": {
+          "official": "ព្រះរាជាណាចក្រកម្ពុជា",
+          "common": "Kâmpŭchéa"
+        }
+      }
+    },
+    "capital": [
+      "Phnom Penh"
+    ],
+    "languages": {
+      "khm": "Khmer"
+    }
+  },
+  {
+    "name": {
+      "common": "Iraq",
+      "official": "Republic of Iraq",
+      "nativeName": {
+        "ara": {
+          "official": "جمهورية العراق",
+          "common": "العراق"
+        },
+        "arc": {
+          "official": "ܩܘܼܛܢܵܐ ܐܝܼܪܲܩ",
+          "common": "ܩܘܼܛܢܵܐ"
+        },
+        "ckb": {
+          "official": "کۆماری عێراق",
+          "common": "کۆماری"
+        }
+      }
+    },
+    "capital": [
+      "Baghdad"
+    ],
+    "languages": {
+      "ara": "Arabic",
+      "arc": "Aramaic",
+      "ckb": "Sorani"
+    }
+  },
+  {
+    "name": {
+      "common": "Sweden",
+      "official": "Kingdom of Sweden",
+      "nativeName": {
+        "swe": {
+          "official": "Konungariket Sverige",
+          "common": "Sverige"
+        }
+      }
+    },
+    "capital": [
+      "Stockholm"
+    ],
+    "languages": {
+      "swe": "Swedish"
+    }
+  },
+  {
+    "name": {
+      "common": "Cuba",
+      "official": "Republic of Cuba",
+      "nativeName": {
+        "spa": {
+          "official": "República de Cuba",
+          "common": "Cuba"
+        }
+      }
+    },
+    "capital": [
+      "Havana"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": {
+      "common": "Kyrgyzstan",
+      "official": "Kyrgyz Republic",
+      "nativeName": {
+        "kir": {
+          "official": "Кыргыз Республикасы",
+          "common": "Кыргызстан"
+        },
+        "rus": {
+          "official": "Кыргызская Республика",
+          "common": "Киргизия"
+        }
+      }
+    },
+    "capital": [
+      "Bishkek"
+    ],
+    "languages": {
+      "kir": "Kyrgyz",
+      "rus": "Russian"
+    }
+  },
+  {
+    "name": {
+      "common": "Russia",
+      "official": "Russian Federation",
+      "nativeName": {
+        "rus": {
+          "official": "Российская Федерация",
+          "common": "Россия"
+        }
+      }
+    },
+    "capital": [
+      "Moscow"
+    ],
+    "languages": {
+      "rus": "Russian"
+    }
+  },
+  {
+    "name": {
+      "common": "Malaysia",
+      "official": "Malaysia",
+      "nativeName": {
+        "eng": {
+          "official": "Malaysia",
+          "common": "Malaysia"
+        },
+        "msa": {
+          "official": "مليسيا",
+          "common": "مليسيا"
+        }
+      }
+    },
+    "capital": [
+      "Kuala Lumpur"
+    ],
+    "languages": {
+      "eng": "English",
+      "msa": "Malay"
+    }
+  },
+  {
+    "name": {
+      "common": "Cyprus",
+      "official": "Republic of Cyprus",
+      "nativeName": {
+        "ell": {
+          "official": "Δημοκρατία της Κύπρος",
+          "common": "Κύπρος"
+        },
+        "tur": {
+          "official": "Kıbrıs Cumhuriyeti",
+          "common": "Kıbrıs"
+        }
+      }
+    },
+    "capital": [
+      "Nicosia"
+    ],
+    "languages": {
+      "ell": "Greek",
+      "tur": "Turkish"
+    }
+  },
+  {
+    "name": {
+      "common": "Canada",
+      "official": "Canada",
+      "nativeName": {
+        "eng": {
+          "official": "Canada",
+          "common": "Canada"
+        },
+        "fra": {
+          "official": "Canada",
+          "common": "Canada"
+        }
+      }
+    },
+    "capital": [
+      "Ottawa"
+    ],
+    "languages": {
+      "eng": "English",
+      "fra": "French"
+    }
+  },
+  {
+    "name": {
+      "common": "Malawi",
+      "official": "Republic of Malawi",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Malawi",
+          "common": "Malawi"
+        },
+        "nya": {
+          "official": "Chalo cha Malawi, Dziko la Malaŵi",
+          "common": "Malaŵi"
+        }
+      }
+    },
+    "capital": [
+      "Lilongwe"
+    ],
+    "languages": {
+      "eng": "English",
+      "nya": "Chewa"
+    }
+  },
+  {
+    "name": {
+      "common": "Saudi Arabia",
+      "official": "Kingdom of Saudi Arabia",
+      "nativeName": {
+        "ara": {
+          "official": "المملكة العربية السعودية",
+          "common": "العربية السعودية"
+        }
+      }
+    },
+    "capital": [
+      "Riyadh"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "name": {
+      "common": "Bosnia and Herzegovina",
+      "official": "Bosnia and Herzegovina",
+      "nativeName": {
+        "bos": {
+          "official": "Bosna i Hercegovina",
+          "common": "Bosna i Hercegovina"
+        },
+        "hrv": {
+          "official": "Bosna i Hercegovina",
+          "common": "Bosna i Hercegovina"
+        },
+        "srp": {
+          "official": "Босна и Херцеговина",
+          "common": "Босна и Херцеговина"
+        }
+      }
+    },
+    "capital": [
+      "Sarajevo"
+    ],
+    "languages": {
+      "bos": "Bosnian",
+      "hrv": "Croatian",
+      "srp": "Serbian"
+    }
+  },
+  {
+    "name": {
+      "common": "Ethiopia",
+      "official": "Federal Democratic Republic of Ethiopia",
+      "nativeName": {
+        "amh": {
+          "official": "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ",
+          "common": "ኢትዮጵያ"
+        }
+      }
+    },
+    "capital": [
+      "Addis Ababa"
+    ],
+    "languages": {
+      "amh": "Amharic"
+    }
+  },
+  {
+    "name": {
+      "common": "Spain",
+      "official": "Kingdom of Spain",
+      "nativeName": {
+        "spa": {
+          "official": "Reino de España",
+          "common": "España"
+        }
+      }
+    },
+    "capital": [
+      "Madrid"
+    ],
+    "languages": {
+      "spa": "Spanish",
+      "cat": "Catalan",
+      "eus": "Basque",
+      "glc": "Galician"
+    }
+  },
+  {
+    "name": {
+      "common": "Slovenia",
+      "official": "Republic of Slovenia",
+      "nativeName": {
+        "slv": {
+          "official": "Republika Slovenija",
+          "common": "Slovenija"
+        }
+      }
+    },
+    "capital": [
+      "Ljubljana"
+    ],
+    "languages": {
+      "slv": "Slovene"
+    }
+  },
+  {
+    "name": {
+      "common": "Oman",
+      "official": "Sultanate of Oman",
+      "nativeName": {
+        "ara": {
+          "official": "سلطنة عمان",
+          "common": "عمان"
+        }
+      }
+    },
+    "capital": [
+      "Muscat"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "name": {
+      "common": "Macau",
+      "official": "Macao Special Administrative Region of the People's Republic of China",
+      "nativeName": {
+        "por": {
+          "official": "Região Administrativa Especial de Macau da República Popular da China",
+          "common": "Macau"
+        },
+        "zho": {
+          "official": "中华人民共和国澳门特别行政区",
+          "common": "澳门"
+        }
+      }
+    },
+    "capital": [],
+    "languages": {
+      "por": "Portuguese",
+      "zho": "Chinese"
+    }
+  },
+  {
+    "name": {
+      "common": "San Marino",
+      "official": "Republic of San Marino",
+      "nativeName": {
+        "ita": {
+          "official": "Repubblica di San Marino",
+          "common": "San Marino"
+        }
+      }
+    },
+    "capital": [
+      "City of San Marino"
+    ],
+    "languages": {
+      "ita": "Italian"
+    }
+  },
+  {
+    "name": {
+      "common": "Lesotho",
+      "official": "Kingdom of Lesotho",
+      "nativeName": {
+        "eng": {
+          "official": "Kingdom of Lesotho",
+          "common": "Lesotho"
+        },
+        "sot": {
+          "official": "Kingdom of Lesotho",
+          "common": "Lesotho"
+        }
+      }
+    },
+    "capital": [
+      "Maseru"
+    ],
+    "languages": {
+      "eng": "English",
+      "sot": "Sotho"
+    }
+  },
+  {
+    "name": {
+      "common": "Marshall Islands",
+      "official": "Republic of the Marshall Islands",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of the Marshall Islands",
+          "common": "Marshall Islands"
+        },
+        "mah": {
+          "official": "Republic of the Marshall Islands",
+          "common": "M̧ajeļ"
+        }
+      }
+    },
+    "capital": [
+      "Majuro"
+    ],
+    "languages": {
+      "eng": "English",
+      "mah": "Marshallese"
+    }
+  },
+  {
+    "name": {
+      "common": "Iceland",
+      "official": "Iceland",
+      "nativeName": {
+        "isl": {
+          "official": "Ísland",
+          "common": "Ísland"
+        }
+      }
+    },
+    "capital": [
+      "Reykjavik"
+    ],
+    "languages": {
+      "isl": "Icelandic"
+    }
+  },
+  {
+    "name": {
+      "common": "Luxembourg",
+      "official": "Grand Duchy of Luxembourg",
+      "nativeName": {
+        "deu": {
+          "official": "Großherzogtum Luxemburg",
+          "common": "Luxemburg"
+        },
+        "fra": {
+          "official": "Grand-Duché de Luxembourg",
+          "common": "Luxembourg"
+        },
+        "ltz": {
+          "official": "Groussherzogtum Lëtzebuerg",
+          "common": "Lëtzebuerg"
+        }
+      }
+    },
+    "capital": [
+      "Luxembourg"
+    ],
+    "languages": {
+      "deu": "German",
+      "fra": "French",
+      "ltz": "Luxembourgish"
+    }
+  },
+  {
+    "name": {
+      "common": "Argentina",
+      "official": "Argentine Republic",
+      "nativeName": {
+        "grn": {
+          "official": "Argentine Republic",
+          "common": "Argentina"
+        },
+        "spa": {
+          "official": "República Argentina",
+          "common": "Argentina"
+        }
+      }
+    },
+    "capital": [
+      "Buenos Aires"
+    ],
+    "languages": {
+      "grn": "Guaraní",
+      "spa": "Spanish"
+    }
+  }
+]
