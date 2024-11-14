@@ -49,5 +49,6 @@
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "typeinfo": "cpp"
-    }
+    },
+    "cmake.sourceDirectory": "C:/Universidad/UNSA/2024B/LAB TO C/LabTecnologiaObjetos/EjerciciosPropuestos/Lab04"
 }
